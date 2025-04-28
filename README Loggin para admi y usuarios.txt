@@ -1,0 +1,20 @@
+mysql> select * from usuarios;
++------------+----------------+----------------+-----------+-----------+----------------+-------------+
+| id_usuario | nombre_usuario | clave          | nombre    | apellido  | departamento   | puesto      |
++------------+----------------+----------------+-----------+-----------+----------------+-------------+
+|          1 | admin1         | abc123         | Carlos    | Gómez     | Administración | Propietario |
+|          2 | vendedor1      | venderBien2    | María     | Fernández | Ventas         | Vendedor    |
+|          3 | cajero1        | cajero1234     | Luis      | Pérez     | Cajas          | Cajero      |
+|          4 | vendedor2      | ventaFeliz2    | Sofía     | Hernández | Ventas         | Vendedor    |
+|          5 | cajero2        | claveSegura3   | Diego     | Torres    | Cajas          | Cajero      |
+|          6 | vendedor3      | vendeRápido5   | Valentina | Sánchez   | Ventas         | Vendedor    |
+|          7 | cajero3        | cajeroFácil6   | Fernando  | Jiménez   | Cajas          | Cajero      |
+|          8 | contador2      | contabilidad8  | Santiago  | Mendoza   | Contabilidad   | Contador    |
+|          9 | vendedor4      | venderSiempre9 | Catalina  | Rojas     | Ventas         | Vendedor    |
+|         10 | cajero4        | cajaCerrada0   | Andrés    | Castro    | Cajas          | Cajero      |
+|         11 | vendedor5      | vendedorFácil3 | Diana     | Vega      | Ventas         | Vendedor    |
+|         12 | cajero5        | cajeroRápido4  | Mauricio  | Patiño    | Cajas          | Cajero      |
++------------+----------------+----------------+-----------+-----------+----------------+-------------+
+12 rows in set (0.00 sec)
+
+
